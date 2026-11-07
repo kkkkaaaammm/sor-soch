@@ -51,7 +51,7 @@ st.set_page_config(
 )
 
 MODEL_NAME = "gemini-2.5-flash"
-DEFAULT_PASSWORD = "admin123"
+DEFAULT_PASSWORD = "daniyar"
 IMAGE_MARKER = "[ИЗОБРАЖЕНИЕ]"  # метка, куда вставляется картинка в Word
 
 # Папка с учебниками рядом с app.py. Структура:
