@@ -14,8 +14,8 @@
 
 Секреты / переменные окружения (st.secrets или os.environ):
 
-    APP_PASSWORD       - пароль входа (по умолчанию: "admin123")
-    GEMINI_API_KEY     - ключ Google Gemini API
+    APP_PASSWORD       - daniyar
+    GEMINI_API_KEY     - AQ.Ab8RN6K8NjKcVd2Tv1m--86AZQ6a7UwRYFQ0-lTxr4-iMqKm_A
     TELEGRAM_BOT_TOKEN - токен Telegram-бота (необязательно)
     TELEGRAM_CHAT_ID   - ID чата для уведомлений (необязательно)
 ==========================================================================
